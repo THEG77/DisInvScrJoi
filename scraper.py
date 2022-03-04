@@ -208,7 +208,7 @@ def scrape_links():
 def sendWebHookLink(currenturl):
     currenturl = currenturl.strip('"')
     global invitecounter
-    webhook = "https://ptb.discord.com/api/webhooks/758634491090042880/ApzeV4M4QsmtfEpw1DsYIXs68OgZObsFk8pGO6YEQeWvU2m7arrHlN4rwPsWoLfaXLeQ"
+    webhook = "YOUR WEBHOOK HERE"
     data = {"username":"Invite Got Yoinked",
             "avatar_url" : "https://i.imgur.com/zm15LzT.png",
             "content": "Invite Link "+ currenturl}
