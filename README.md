@@ -6,6 +6,8 @@ The script scrapes discord invites from site "https://disboard.org/" and joins t
 
 It also uses discord webhook to post the invite links into your discord server.
 
+(⚠ Highly customized for my own use ⚠)
+
 ## Steps to run:
 -Download or clone the repo
 
